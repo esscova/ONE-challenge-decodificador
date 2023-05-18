@@ -32,7 +32,7 @@ main{
     }
 .mensagem{
     background: white;
-    background-image: url(/imagens/capivara.png);
+    background-image: url(imagens/capivara.png);
     background-repeat: no-repeat;
     background-position:60px 140px;
     background-size: contain;
